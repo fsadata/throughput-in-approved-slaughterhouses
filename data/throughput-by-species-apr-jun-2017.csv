@@ -1,0 +1,29 @@
+Species,SlaughterMethod,Throughput
+Poultry,Non Stun,45394636
+Poultry,Stun,197857913
+Cattle,Combined,1721
+Cattle,Non Stun,2098
+Cattle,Stun,290500
+Pigs,Combined,4150
+Pigs,Stun,2076545
+Goats,Combined,96
+Goats,Non Stun,532
+Goats,Stun,4361
+Sheep,Combined,171907
+Sheep,Non Stun,757731
+Sheep,Stun,2174358
+Cattle 30 to 72mth,Combined,78
+Cattle 30 to 72mth,Non Stun,940
+Cattle 30 to 72mth,Stun,77035
+Calves,Combined,73
+Calves,Non Stun,854
+Calves,Stun,19728
+over 72 month cattle,Non Stun,498
+over 72 month cattle,Stun,48569
+Ruminants,Stun,158
+Ratites,Stun,3
+Solipeds,Stun,500
+Wild Boar,Stun,49
+Bison,Stun,5
+Turkeys,Non Stun,1947
+Turkeys,Stun,2370599
