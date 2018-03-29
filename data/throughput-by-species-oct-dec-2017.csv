@@ -1,0 +1,10 @@
+Species,SlaughterMethod,Throughput
+Cattle,combined,143
+Cattle,Non-stun,5083
+Cattle,Stun,453191
+Pigs,Stun,2259114
+Poultry,Non-stun,42043137
+Poultry,Stun,199134472
+Sheep and Goats,combined,198628
+Sheep and Goats,Non-stun,774591
+Sheep and Goats,Stun,2796308
